@@ -1,6 +1,17 @@
 # File-System
 In this project, I implement file system in c#
 
+File System structure :
+
+![image](https://user-images.githubusercontent.com/81233165/139411979-fb7e4b44-adca-435e-ae1d-7ee6bde276d8.png)
+
+
+![image](https://user-images.githubusercontent.com/81233165/139411990-8945a039-b31f-4531-9a45-89e240c8325f.png)
+
+
+![image](https://user-images.githubusercontent.com/81233165/139412012-e1cc8d34-d20c-4ad7-93a4-a9fdebf94b6d.png)
+
+
 The file system contains three lists. One list is assigned to the header and the others to the contents.
 
 Header:
