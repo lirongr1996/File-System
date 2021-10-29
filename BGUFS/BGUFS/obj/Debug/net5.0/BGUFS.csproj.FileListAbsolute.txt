@@ -1,0 +1,16 @@
+C:\Users\liron\source\repos\BGUFS\BGUFS\bin\Debug\net5.0\BGUFS.exe
+C:\Users\liron\source\repos\BGUFS\BGUFS\bin\Debug\net5.0\BGUFS.deps.json
+C:\Users\liron\source\repos\BGUFS\BGUFS\bin\Debug\net5.0\BGUFS.runtimeconfig.json
+C:\Users\liron\source\repos\BGUFS\BGUFS\bin\Debug\net5.0\BGUFS.runtimeconfig.dev.json
+C:\Users\liron\source\repos\BGUFS\BGUFS\bin\Debug\net5.0\BGUFS.dll
+C:\Users\liron\source\repos\BGUFS\BGUFS\bin\Debug\net5.0\ref\BGUFS.dll
+C:\Users\liron\source\repos\BGUFS\BGUFS\bin\Debug\net5.0\BGUFS.pdb
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.csprojAssemblyReference.cache
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.AssemblyInfoInputs.cache
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.AssemblyInfo.cs
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.csproj.CoreCompileInputs.cache
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.dll
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\ref\BGUFS.dll
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.pdb
+C:\Users\liron\source\repos\BGUFS\BGUFS\obj\Debug\net5.0\BGUFS.genruntimeconfig.cache

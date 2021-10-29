@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BGUFS": {
+      "commandName": "Project",
+      "commandLineArgs": "-dir BGUFS_MYBGUFS.dat textFile.txt"
+    }
+  }
+}
